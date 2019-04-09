@@ -1,3 +1,6 @@
+## 19/04/05
+## Python 3.7.1
+
 def solution(phone_book):
     answer = True
     x = list(set(phone_book))
