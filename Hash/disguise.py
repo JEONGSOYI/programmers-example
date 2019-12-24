@@ -1,4 +1,3 @@
-## 19/04/08
 ## Python 3.7.1
 
 def solution(clothes):

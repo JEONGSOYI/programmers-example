@@ -1,4 +1,3 @@
-## 19/04/10
 ## Python 2.7.15
 
 def solution(genres, plays):
